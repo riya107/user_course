@@ -1,0 +1,12 @@
+.useritem{
+    position: fixed;
+    left: 200px;
+    top:20px;
+    background-color: white;
+    text-align: left;
+    margin: 4px;
+    padding: 25px;
+    border-radius: 25px;
+    box-shadow: rgb(220, 219, 219) 2px 2px 2px;
+    width: 400px;
+}

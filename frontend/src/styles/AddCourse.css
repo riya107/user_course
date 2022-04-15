@@ -1,0 +1,10 @@
+.courseform{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    position: absolute;
+    left: 400px;
+    top: 30px;
+    padding: 20px;
+    box-shadow: rgb(220, 219, 219) 2px 2px 2px;
+}

@@ -1,0 +1,22 @@
+.sidebar{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0.5em;
+    background-color: white;
+    margin-left: 1em;
+    width: 150px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    box-shadow: rgb(220, 219, 219) 2px 2px 2px;
+}
+
+.barchild{
+    text-decoration: none;
+    color: grey;
+    font-weight: 800;
+    font-size: larger;
+    display: block;
+    border-bottom: 1px solid rgb(229, 222, 222);
+}

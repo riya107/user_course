@@ -1,0 +1,18 @@
+.courses{
+    width:300px;
+    position: absolute;
+    left: 300px;
+    top: 0px;
+    height: 250px;
+    overflow: scroll;
+    text-align: center;
+}
+
+.btn{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    font-size: larger;
+    box-shadow: rgb(220, 219, 219) 2px 2px 2px;
+    cursor: pointer;
+}
